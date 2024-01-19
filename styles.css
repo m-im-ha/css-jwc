@@ -1,0 +1,46 @@
+/*********** 1 ***********/
+/* .title {
+    color: slateblue;
+} */
+
+/*********** 2 ***********/
+/* @media (max-width: 300px) {
+    .small-only {
+        color: red;
+    }
+} */
+
+/*********** 3 ***********/
+/* .large-screens {
+    display: none;
+}
+@media (min-width: 300px){
+    .large-screens {
+        display: block;
+    }
+    .small-screens {
+        display: none;
+    }
+} */
+
+/*********** 4 ***********/
+/* button:focus {
+    border: 2px solid royalblue;
+    background-color: royalblue;
+    color: white;
+    
+}*/
+
+/*********** 5 ***********/
+input:checked {
+    width: 20px;
+    height: 20px;
+}
+
+/*********** 6 ***********/
+
+/*********** 7 ***********/
+
+/*********** 8 ***********/
+
+/*********** 9 ***********/
