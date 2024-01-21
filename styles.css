@@ -189,14 +189,54 @@ p {
 } */
 
 /*********** 21 ***********/
+/* a {
+    color: inherit;
+} */
 
 /*********** 22 ***********/
+/* p {
+    font-weight: bold;
+    color: hsl(0deg 0% 10%);
+}
+.introduction {
+    color: violet;
+}
+#jwc {
+    color: hsl(160, 50%, 60%);
+} */
 
 /*********** 23 ***********/
+/* section {
+    width: 150px;
+}
+p {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid;
+    box-sizing: border-box;
+} */
 
 /*********** 24 ***********/
+/* *{
+    box-sizing: border-box;
+}
+section {
+    width: 400px;
+    height: 400px;
+    background-color: hsl(50deg, 20%, 60%);
+}
+.box {
+    width: 50%;
+    height: 75%;
+    border: 10px solid;
+} */
 
 /*********** 25 ***********/
+.box {
+    border: 2px solid;
+    /* padding-top: 25%; */
+    padding-top: 25px;
+}
 
 /*********** 26 ***********/
 
