@@ -252,19 +252,69 @@ section {
 /* } */
 
 /*********** 27 ***********/
-.outline-offset {
+/* .outline-offset {
     margin: 50px auto;
     width: 100px;
     height: 100px;
     border: 4px solid darkcyan;
     outline: 4px solid currentColor;
     outline-offset: 5px;
-}
+} */
 
 /*********** 28 ***********/
+/* body {
+    background-color: #222;
+}
+.box{
+    margin: 100px auto;
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+}
+h1{
+    background-color: hsl(310, 50%, 59%);
+    padding: 10px 5px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 24px; 
+    margin-top: -50px; 
+    border-radius: 5px;
+}
+p{
+    text-align: center;
+    margin: 10px auto;
+} */
 
 /*********** 29 ***********/
+body {
+    background-color: #222;
+    padding: 100px;
+}
+.card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    /* padding: 20px; */
+}
+
+p{
+    padding: 20px 30px 10px 30px;
+}
+
+img {
+    display: block;
+    width: 100%;
+    /* padding: 0 20px; */
+}
 
 /*********** 30 ***********/
 
-/*********** 25 ***********/
+/*********** 31 ***********/
+
+/*********** 32 ***********/
+
+/*********** 33 ***********/
+
+/*********** 34 ***********/
+
+/*********** 35 ***********/
